@@ -54,4 +54,4 @@ Building this dashboard was not just a learning experience but also an exciting 
 ## 📌 **Live Dashboard & Connect with Me**
 🔗 [Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDg5OWIyYmEtODQyZi00MWQ2LTg4MzktZmZhNTBhYTYzM2YwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) 
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/punitkumawat/) 
-🔗 GitHub Repository: 
+🔗 [GitHub Repository](https://github.com/Punit-Kumawat/PowerBI-Project-Business-Insights-360) 
